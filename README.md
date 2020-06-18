@@ -1,3 +1,3 @@
 # cuddly-enigma
 A project by:
-David Lance
+David Lance And Elektra Babian
